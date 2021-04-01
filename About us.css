@@ -134,6 +134,7 @@ input.SUBMIT{
     width: 40px;
     text-align: center;
     margin-left: 4rem;
+    font-weight: 600;
 }
 select.bigoption{
      width: 10.7rem;
